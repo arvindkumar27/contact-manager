@@ -8,7 +8,7 @@ The files in this repository are, unless stated otherwise, released under the Mi
 Contact Manager is an Enterprise level application, that allows a user to manage their contacts from a dashboard. The dashboard would contain contact widgets to store information about friends, family and work colleagues. They want you to design and develop a system that can be passed on to the development team that would be built out with additional widgets and functionality using your design, code and data models. The following is a list of required functionality put together from the business team. Feel free to add additional functionality.
 
 # Dependencies and Installation
-Ensure Node is installed. This can be done through your package manager or from their website.
+Ensure ``` Node ``` is installed. This can be done through your package manager or from their website.
 
 > Clone this repository:
 
@@ -16,7 +16,7 @@ Ensure Node is installed. This can be done through your package manager or from 
    $ git clone "https://github.com/arvindkumar27/contact-manager.git"
 ```
 
-> Change directory into the application and use npm to install the application's dependencies:
+> Change directory into the application and use ``` npm ``` to install the application's dependencies:
 ```ruby
 $ cd contact-manager
 $ npm install
