@@ -1,5 +1,5 @@
-# contact-manager
-Contact manager application
+# ``` Node ``` contact-manager
+Contact manager application in nodejs
 
 # Licensing
 The files in this repository are, unless stated otherwise, released under the Mit License. You are free to redistribute this code with or without modification.
